@@ -1,0 +1,5 @@
+
+{
+  "name": "Chennai Gas Leak Response Monitor",
+  "description": "A web application for users to report gas leaks and for admins to monitor, filter, and analyze these reports on a real-time map."
+}
